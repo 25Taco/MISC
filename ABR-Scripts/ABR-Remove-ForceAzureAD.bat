@@ -1,1 +1,0 @@
-reg delete "HKLM\SOFTWARE\FastTrack Software\Admin By Request\Policies\ForceAzureAD"

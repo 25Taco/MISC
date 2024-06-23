@@ -1,1 +1,0 @@
-reg add "HKLM\SOFTWARE\FastTrack Software\Admin By Request\Policies" /v ForceAzureAD /t REG_DWORD /d 1
